@@ -3,7 +3,7 @@
 
 
 ## Description
-This repository contains the the notebooks and presentation for a final project for CHE1147 (Data Mining in Engineering) taken at the University of Toronto in Winter 2020. The goal of the project was to assess whether a person might have a high or low level of cholesterol by using features that are known beforehand or that can easily be measured at home (weight, arm thickness, age, etc.). The motivation behind this project was to create a model that could be deployed on an app as a survey to alleviate the financial burden of having to take a cholesterol test (this survey could act as a precursor to taking a lab test).
+This repository contains the the notebooks and presentation for a final project for CHE1147 (Data Mining in Engineering) taken at the University of Toronto in Winter 2020. The goal of the project was to assess whether a person might have a high or low level of cholesterol by using features that are either (a) known beforehand (age, gender, etc.) or (b) can easily be measured at home (weight, arm thickness, etc.). The motivation behind this project was to create a model that could be deployed on an app as a survey to alleviate the financial burden of having to take a cholesterol test (this survey could act as a precursor to taking a lab test).
 
 ## Files
 Here's a list of files in the directory:
